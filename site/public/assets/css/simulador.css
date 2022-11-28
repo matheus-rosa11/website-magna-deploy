@@ -1,0 +1,47 @@
+/** @format */
+
+.containerFinanceiro {
+  padding: 40px 0;
+}
+
+h3::after {
+  content: "";
+  display: block;
+  width: 35px;
+  height: 5px;
+  background-image: linear-gradient(to right, #75c9d5, #49abb9);
+}
+
+table {
+  border-radius: 5px !important;
+  border-color: #576e97 !important;
+}
+
+thead {
+  border-bottom: 2px solid #132b55 !important;
+}
+
+td {
+  vertical-align: middle;
+}
+
+tr:has(.h4),
+tr th {
+  text-align: center;
+}
+
+.negativo {
+  color: #eb5757;
+}
+
+.positivo {
+  color: #27ae70;
+}
+
+td:nth-child(1) {
+  text-align: left;
+}
+
+.nosso-servico {
+  background-image: linear-gradient(to right, #75c9d5, #49abb9);
+}

@@ -1,0 +1,64 @@
+/** @format */
+
+/* .row {
+  height: 450px;
+}
+
+.divLogin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+*/
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  background-color: #e3f6f8 !important;
+}
+
+.row {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.imgLogin {
+  background-image: linear-gradient(to right, #75c9d5, #49abb9);
+}
+
+.opcao-cadastrar {
+  color: #576e97;
+}
+
+.opcao-cadastrar a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.formulario {
+  position: relative;
+  background-color: #fff;
+}
+
+.fechar {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.voltar {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+.resultado {
+  display: none;
+}
+
+.cadastro {
+  border-radius: 0 5px 5px 0;
+}

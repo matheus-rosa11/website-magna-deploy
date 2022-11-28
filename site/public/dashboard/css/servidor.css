@@ -1,0 +1,13 @@
+/** @format */
+
+.row {
+  margin: 0 !important;
+}
+
+.containerDash {
+  margin: 0;
+}
+
+.containerFormServer {
+  display: none;
+}

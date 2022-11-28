@@ -1,0 +1,85 @@
+/** @format */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Bebas Neue", cursive;
+}
+
+.h1 {
+  font-size: 6rem !important;
+  line-height: 1.5;
+  font-weight: lighter;
+}
+
+.h2 {
+  font-size: 3.75rem !important;
+  line-height: 0.5;
+  font-weight: lighter;
+}
+
+.h3 {
+  font-size: 3rem !important;
+  line-height: 0;
+  font-weight: 400;
+}
+
+.h4 {
+  font-size: 2.125rem !important;
+  line-height: 1.5;
+  font-weight: 400;
+  margin-bottom: 0 !important;
+}
+
+.h5 {
+  font-size: 1.5rem !important;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.h6 {
+  font-size: 1.25rem !important;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.sub1 {
+  font-size: 1rem !important;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.sub2 {
+  font-size: 0.875rem !important;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.body1 {
+  font-size: 1rem !important;
+  line-height: 1.5;
+}
+
+.body2 {
+  font-size: 0.875rem !important;
+  line-height: 1.5;
+}
+
+.btn {
+  font-size: 0.875rem !important;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.caption {
+  font-size: 0.75rem !important;
+  line-height: 1.5;
+}
+
+.overline {
+  font-size: 0.0625rem !important;
+  line-height: 1.5;
+}
